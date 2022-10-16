@@ -1,4 +1,4 @@
-## Projeto de Pokemons para desenvolver mais minhas habilidades em programação
+## Projeto para desenvolver mais minhas habilidades em programação
 
 [Site](https://www.mmdev.com.br)
 
@@ -9,8 +9,10 @@ Nesse projeto temos
 [React Icons](https://react-icons.github.io/react-icons/)
 [React-Router-Dom](https://reactrouter.com/en/dev)
 
-Hospedagem da Aplicação
-[Deploy](https://vercel.com/)
+Detalhes da Aplicação
+O desafio foi bem proposto e bem legal, mais infelizmente não consegui evoluir mais tive
+alguns problemas com meu pc, agradeço a oportunidade espero que possa participar de eventuais
+processos futuros. Obrigado e desculpa
 
 Instruções para start do projeto:
 
